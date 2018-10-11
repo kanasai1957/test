@@ -6,3 +6,14 @@ int main(){
 }
 void somefunction(){
 printf("Modified by jia yong");}
+
+ printf("hello world")
+    printf("hello world")
+     printf("hello world")
+    printf("hello world")
+
+     printf("hello world")
+    printf("hello world")
+
+     printf("hello world")
+    printf("hello world")
