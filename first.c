@@ -6,3 +6,7 @@ int main(){
 }
 void somefunction(){
 printf("Changed liao at 8.56 p.m.");}
+void somefunction(){
+printf("Changed liao at 8.56 p.m.");}void somefunction(){
+printf("Changed liao at 8.56 p.m.");}void somefunction(){
+printf("Changed liao at 8.56 p.m.");}
